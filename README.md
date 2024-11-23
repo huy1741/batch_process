@@ -37,3 +37,8 @@ batches = processor.run_process(records)
 
 # Output: List of batches adhering to constraints
 print(batches)
+```
+
+## Unit tests
+
+- **Diverse test cases**: Test cases are included and can be run with `python -m unittest test_batch_processor.py`
